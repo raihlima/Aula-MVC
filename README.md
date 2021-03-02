@@ -1,3 +1,5 @@
+# Aula MVC
+# Executar somente o site
 Depois de clonar o repositório usar o comando no terminal dentro da pasta: 
 ```
 composer install
@@ -11,7 +13,7 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-# Aula MVC
+## Criação Passo a passo
 ## Ferramentas Utilizadas
 - PHP
 - Composer – Gerenciador de pacotes php
